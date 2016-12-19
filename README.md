@@ -1,6 +1,8 @@
 # Solderstation
 
 Barebones Atmega328 based Soldering station  
+Firmware: https://github.com/fngstudios/SolderStation_Software
+
 
 ## Features  
 *FTDI/Arduino programming port     
