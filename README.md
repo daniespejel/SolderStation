@@ -8,6 +8,7 @@ Barebones Atmega328 based Soldering station
 *Uses MAX31856 for TC reading  
 *Configurable TC type supports J,K,N,E,etc  
 *Configurable LCD contrast  
+*PID control Kp,Ki and Kd configurable via UI  
 *Idle mode for longer tip life  
 *Automatic switch-off  
 *Arduino compatible 100% customizable  
